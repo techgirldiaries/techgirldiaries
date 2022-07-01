@@ -92,7 +92,7 @@
 
 <p align="center">
 
-<a href="https://techgirldiaries.github.io/about/contact">Connect with Me</a>
+<a href="https://techgirldiaries.github.io/contact">Connect with Me</a>
 </p>
 
 ⭐️ From [Oluwakemi](https://github.com/techgirldiaries)
