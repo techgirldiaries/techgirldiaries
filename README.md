@@ -17,14 +17,10 @@
 
 - 🌱 &nbsp; Learning more about Ethical Security, React, and JavaScript.
 
-- 📖 &nbsp; Teaching basics of coding to beginners.
+<p>
 
-- 🎨 &nbsp; Pursuing Graphic Design as hobbies/side hustles.
+     <a href="https://techgirldiaries.github.io/about">Read more...</a> 
 
-- 🛍 &nbsp; Selling my designs on Redbubble, Teepublic and Spring as side hustles.
-
-    <p> 
-        <a href="https://techgirldiaries.github.io/about">Read more...</a> 
     </p>
 <br/>
 
