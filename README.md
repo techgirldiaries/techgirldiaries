@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning Python, Data structures and Algorithms. I'm also enrolled on the IBM Consulting Associates Programme plan.  
   
 
-- ⚡ Fun fact: I'm curious, shy and social.  
+- ⚡ Fun fact: I'm shy, social and curious minded.  
   
 
 - 📲 Connect with me through any of my socials!  
