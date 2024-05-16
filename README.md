@@ -6,7 +6,7 @@
 </div>  
   
 
-### <div align="center">I am Oluwakemi, a Computer Science student👩‍💻 </div>  
+### <div align="center">I am Oluwakemi, a Computer Science student👩‍💻 seeking for internships/entry-level job roles. </div>  
   
 
 - 🔭 I’m currently working on Tic-Tac-Toe AI Game. I also just completed a chess game and will be on my account soon.  
