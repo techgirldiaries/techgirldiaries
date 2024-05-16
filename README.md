@@ -1,5 +1,3 @@
-### Hi! Nice to meet you.  
-
 <h1 align="center">Hi 👋, I'm Oluwakemi</h1>
 <h3 align="center">A computer science student in the UK.</h3>
 
