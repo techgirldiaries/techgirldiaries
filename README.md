@@ -6,13 +6,13 @@
 </div>  
   
 
-### <div align="center">I am Oluwakemi, a Computer Science student👩‍💻 seeking for internships/entry-level job roles. </div>  
+### <div align="center">I am Oluwakemi, a Computer Science student👩‍💻 who ia seeking for internships/entry-level job roles. </div>  
   
 
 - 🔭 I’m currently working on Tic-Tac-Toe AI Game. I also just completed a chess game and will be on my account soon.  
   
 
-- 🌱 I’m currently learning Python, Data structures and Algorithms.   
+- 🌱 I’m currently learning Python, Data structures and Algorithms. I'm also enrolled on the IBM Consulting Associates Programme plan.  
   
 
 - ⚡ Fun fact: I'm curious, shy and social.  
