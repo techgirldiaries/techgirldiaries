@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and DSA.**
 
-- 🤝 I’m looking for help with **internships or entry-level job roles.**
+- 🤝 I’m looking for **internships or entry-level job roles.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/techgirldiaries](https://github.com/techgirldiaries)
 
