@@ -19,7 +19,9 @@
 
 - 📄 Know about my experiences [https://linkedin.com/in/oluwakemi-obadeyi](https://linkedin.com/in/oluwakemi-obadeyi)
 
-- ⚡ Fun fact **I'm shy, social and curious minded.**
+- ⚡ Fun fact: **I'm shy, social and curious minded.**
+  
+- ⚡ Hobbies: **Play mobile games, listen to music and watch Formula One.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
