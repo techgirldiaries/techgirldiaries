@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/techgirldiaries](https://github.com/techgirldiaries)
 
-- 📝 I regularly write articles on [https://bit.ly/about-oluwakemi](https://bit.ly/about-oluwakemi)
+- 📝 Learn more about my journey on [https://bit.ly/about-oluwakemi](https://bit.ly/about-oluwakemi)
 
 - 💬 Ask me about **Python, JavaScript, HTML, CSS.**
 
