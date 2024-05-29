@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/techgirldiaries" target="blank"><img src="https://img.shields.io/twitter/follow/techgirldiaries?logo=twitter&style=for-the-badge" alt="techgirldiaries" /></a> </p>
 
-- 🔭 I’m currently working on **a Python Chess game**
+- 🔭 I’m currently working on **a Face Detection Scanner in Python**
 
 - 🌱 I’m currently learning **Python and DSA.**
 
