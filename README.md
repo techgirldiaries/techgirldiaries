@@ -12,7 +12,7 @@ techgirldiaries.github.io
 - 🌱 &nbsp; Learning more about Ethical Security, Python, JavaScript and React.
 
 - 📖 &nbsp; Teaching coding to beginners.
-- 
+
 
 <h3> 🛠 &nbsp;Languages, Frameworks & Toolsk</h3>
 
