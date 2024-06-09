@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning **Python, Numpy, OpenCV, TensorFlow**
 
-💬 Ask me about **Python, React, Node.js... or anything [here](https://github.com/techgirldiaries/techgirldiaries/issues)**
+💬 Ask me about **Python... or anything [here](https://github.com/techgirldiaries/techgirldiaries/issues)**
 
 ⚡ Fact about me: **I am curious, shy and social**
 
