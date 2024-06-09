@@ -1,10 +1,7 @@
 techgirldiaries.github.io
 
-<img src="https://raw.githubusercontent.com/techgirldiaries/techgirldiaries/master/assets/Oluwakemi%20Obadeyi%20Banner.png">
+<h2> Hi! I'm Oluwakemi.</h2>    
 
-<h2> Hey there! I'm Oluwakemi.<br>I Design Your Dream.</h2>    
-
-    
 
 <h3> 👸🏾💻 &nbsp;About Me </h3>
 
