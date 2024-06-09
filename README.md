@@ -12,11 +12,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on ****
+ 🔭 I’m currently working on
  
  🌱 I’m currently learning **Python, Numpy, OpenCV, TensorFlow**
 
-💬 Ask me about **Python, Node.js, React... or anything [here](https://github.com/techgirldiaries/techgirldiaries/issues)**
+💬 Ask me about **Python, React, Node.js... or anything [here](https://github.com/techgirldiaries/techgirldiaries/issues)**
 
 ⚡ Fact about me **I am curious, shy and social**
 
@@ -59,7 +59,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=techgirldiaries%20&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=techgirldiaries%20&theme=dark&hide_border=true&border_radius=5&date_format=n%2Fj%5B%2FY%5D&mode=weekly&card_width=500&card_height=200" alt="GitHub Streak" /></a>
 </div>
 
 <br/><br/>
