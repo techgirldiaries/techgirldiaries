@@ -8,13 +8,13 @@ techgirldiaries.github.io
 
 <h3> 👸🏾💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing web/web app solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies, developing web app solutions and quick hacks.
 
-- 💼 &nbsp; Available to work or to collaborate.
+- 💼 &nbsp; Available to work or collaborate.
 
-- 🌱 &nbsp; Learning more about Ethical Security, React, and JavaScript.
+- 🌱 &nbsp; Learning more about Ethical Security, Python, JavaScript and React.
 
-- 📖 &nbsp; Teaching basics of coding to beginners.
+- 📖 &nbsp; Teaching coding to beginners.
 - 
 
 <h3> 🛠 &nbsp;Languages, Frameworks & Toolsk</h3>
