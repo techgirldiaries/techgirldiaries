@@ -59,8 +59,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techgirldiaries&show_icons=true&locale=en&layout=compact" alt="techgirldiaries" />
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=techgirldiaries&show_icons=true&locale=en" alt="techgirldiaries" />
+ <img align="leftt" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techgirldiaries&hide_progress=true" alt="techgirldiaries" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=techgirldiaries\&rank_icon=github&hide=contribs,issues" alt="techgirldiaries" />
 </div>
 
 <br/><br/>
