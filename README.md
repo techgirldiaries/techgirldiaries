@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on ****
  
  🌱 I’m currently learning **Python, Numpy, OpenCV, TensorFlow**
 
@@ -24,13 +24,12 @@
   <a href="mailto:oluwakemi.toluwalase@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://techgirdiaries.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a> 
+    </a> 
   <a href="https://linkedin.com/in/oluwakemi-obadeyi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-
+  <a href="https://techgirdiaries.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-9966CC?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
 </div>
 
  <hr/>
