@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on
+ 🔭 I’m currently working on **Coding interview questions**
  
  🌱 I’m currently learning **Python, Numpy, OpenCV, TensorFlow**
 
