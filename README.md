@@ -59,7 +59,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=techgirldiaries%20&theme=dark&hide_border=true&border_radius=5&date_format=n%2Fj%5B%2FY%5D&mode=weekly&card_width=500&card_height=200" alt="GitHub Streak" /></a>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techgirldiaries&show_icons=true&locale=en&layout=compact" alt="techgirldiaries" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=techgirldiaries&show_icons=true&locale=en" alt="techgirldiaries" />
 </div>
 
 <br/><br/>
