@@ -59,8 +59,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
- <img align="leftt" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techgirldiaries&hide_progress=true" alt="techgirldiaries" />
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=techgirldiaries\&rank_icon=github\&hide=contribs,issues\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff" alt="techgirldiaries" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techgirldiaries&hide_progress=true" alt="techgirldiaries" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api?/username=techgirldiaries\&rank_icon=github" alt="techgirldiaries" />
 </div>
 
 <br/><br/>
