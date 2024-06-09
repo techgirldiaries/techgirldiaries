@@ -1,5 +1,3 @@
-techgirldiaries.github.io
-
 <h2> Hi! I'm Oluwakemi.</h2>    
 
 
@@ -32,9 +30,11 @@ techgirldiaries.github.io
 
 <h3> 🤝🏻 &nbsp;Contact </h3>
 <p align="left">
-  <a href="https://linkedin.com/in/oluwakemi-obadeyi">Connect with Me</a>
+  <a href="mailto://oluwakemi.toluwalase@gmail.com">Email</a>
+  <a href="https://linkedin.com/in/oluwakemi-obadeyi">LinkedIn</a>
+  <a href="https://github.com/techgirldiaries">GitHub</a>
 </p>
 
-⭐️ [Oluwakemi](https://github.com/techgirldiaries)
+<br/>
 
 Inspired by [Aditya](https://github.com/AVS1208)
