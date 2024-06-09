@@ -15,12 +15,9 @@ techgirldiaries.github.io
 - 🌱 &nbsp; Learning more about Ethical Security, React, and JavaScript.
 
 - 📖 &nbsp; Teaching basics of coding to beginners.
+- 
 
-- 🎨 &nbsp; Pursuing Graphic Design as hobbies/side hustles.
-
-- 🛍 &nbsp; Selling my designs on Redbubble, Teepublic and Spring as side hustles.
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Languages, Frameworks & Toolsk</h3>
 
 - 🌐 &nbsp;
 
