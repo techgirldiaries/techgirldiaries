@@ -30,7 +30,7 @@
   <a href="https://linkedin.com/in/oluwakemi-obadeyi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://techgirldiaries.github.io" target="_blank">
+  <a href="https://github.com/techgirldiaries?tab=repositories" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-9966CC?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
 </div>
 
