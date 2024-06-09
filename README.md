@@ -31,7 +31,7 @@ techgirldiaries.github.io
 </br>
 
 <h3> 🤝🏻 &nbsp;Contact </h3>
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/oluwakemi-obadeyi">Connect with Me</a>
 </p>
 
