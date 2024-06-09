@@ -60,7 +60,7 @@
 <br>
 <div align=center>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techgirldiaries&hide_progress=true" alt="techgirldiaries" />
- <img align="right" src="https://github-readme-stats.vercel.app/api?/username=techgirldiaries\&rank_icon=github" alt="techgirldiaries" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/?username=techgirldiaries\&rank_icon=github" alt="techgirldiaries" />
 </div>
 
 <br/><br/>
