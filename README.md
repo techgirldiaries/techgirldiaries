@@ -1,7 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=techgirldiaries.techgirldiaries" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Oluwakemi+Obadeyi;" />
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=900&size=35&pause=1000&color=9966CC&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there!+;I'm+Oluwakemi+T.+Obadeyi;Nice+to+meet+you." alt="Typing SVG" />
+    </a>
 </h1>
 
 <h3 align="center">A passionate software developer living in the UK</h3>
