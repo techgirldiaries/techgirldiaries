@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=900&size=40&pause=1000&color=9966CC&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there!+;I'm+Oluwakemi+T.+Obadeyi;Nice+to+meet+you." alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=900&size=40&pause=1000&color=9966CC&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there!+;I'm+Oluwakemi+T.+Obadeyi;Nice+to+meet+you." alt="Typing SVG" />
     </a>
 </h1>
 
@@ -18,7 +18,7 @@
 
 💬 Ask me about **Python, React, Node.js... or anything [here](https://github.com/techgirldiaries/techgirldiaries/issues)**
 
-⚡ Fact about me **I am curious, shy and social**
+⚡ Fact about me: **I am curious, shy and social**
 
  </div>
  
@@ -47,7 +47,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> ♥ My Contributions ♥ </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/techgirldiaries/techgirldiaries/output/github-contribution-grid-snake.svg" />
   
@@ -56,11 +56,11 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"> ⚡Stats⚡</h2>
 <br>
 <div align=center>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techgirldiaries&hide_progress=true" alt="techgirldiaries" />
- <img align="right" src="https://github-readme-stats.vercel.app/api/?username=techgirldiaries\&rank_icon=github" alt="techgirldiaries" />
+    <a href="https://github.com/techgirldiaries/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=techgirldiaries&rank_icon=github" /></a>
+    <a href="https://github.com/techgirldiaries/convoychat"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=techgirldiaries&hide_progress=true&layout=compact&langs_count=8&card_width=320" /></a>
 </div>
 
 <br/><br/>
@@ -70,9 +70,8 @@
 <br/><br/>
 
 <h1 align="center">
-    <br>
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=900&size=40&pause=1000&color=9966CC&center=true&vCenter=true&random=false&width=500&height=70&lines=Thank+you!" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=900&size=40&pause=1000&color=9966CC&center=true&vCenter=true&random=false&width=500&height=70&lines=Thank+you+for+stopping+by!" alt="Typing SVG" />
     </a>
 </h1>
 
