@@ -6,7 +6,7 @@
     </a>
 </h1>
 
-<h3 align="center">A passionate software developer living in the UK</h3>
+<h3 align="center">A passionate software engineer living in the UK</h3>
 
 <br/>
 
