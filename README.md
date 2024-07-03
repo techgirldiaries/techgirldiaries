@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @techgirldiaries, aka Oluwakemi Toluwalase Obadeyi (Kemi).
-- 👩‍💻 I’m a UK-based Computer Science student with Python and SQL experience.
+- 👩‍💻 I’m a UK-based Computer Science student.
 - ✨ I'm also proficient in Python, SQL, NumPy and have basic experience in JavaScript, Java, Artificial Intelligence (AI) and Machine Learning (ML). 
 - 👓 In my spare time, I teach coursemates on coursework-related topics such as Web Development, Python, Data, SQL and Computer Networks.
 - 🚺 I am a GirlCode 2024 Ambassador, CodeFirstGirls and Coding Black Females member. 
