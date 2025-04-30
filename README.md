@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @techgirldiaries, aka Oluwakemi Toluwalase Obadeyi (Tolu).
 - 👩‍💻 I’m a UK-based Computer Science student.
-- ✨ Proficient in Python, SQL and have basic experience in JavaScript, c#, Java, AI and ML. 
+- ✨ Proficient in Python, SQL and have basic experience in JavaScript, C#, Java, AI and ML. 
 - 👓 In my spare time, I teach coursemates on coursework-related topics.
 - 🚺 I am a GirlCode 2024 Ambassador, CodeFirstGirls and Coding Black Females member. 
 - 📙 I love learning new languages; currently learning Mandarin Chinese.
