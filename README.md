@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @techgirldiaries, aka Oluwakemi Toluwalase Obadeyi (Kemi).
+- 👋 Hi, I’m @techgirldiaries, aka Oluwakemi Toluwalase Obadeyi (Tolu).
 - 👩‍💻 I’m a UK-based Computer Science student.
 - ✨ Proficient in Python, NumPy, SQL and have basic experience in JavaScript, Java and Artificial Intelligence (AI). 
 - 👓 In my spare time, I teach coursemates on coursework-related topics.
 - 🚺 I am a GirlCode 2024 Ambassador, CodeFirstGirls and Coding Black Females member. 
 - 📙 I love learning new languages; currently learning Mandarin Chinese.
-- 🛝 My hobbies and interests: Sport, Travelling, Nature, Photography, Reading, Learning new things, Networking and Volunteering.
+- 🛝 My hobbies and interests are Learning new things, Photography, Reading, Travelling, Nature, F1, Networking and Volunteering.
 - 📫 You can find me on [LinkedIn](linkedin.com/in/oluwakemi-obadeyi)!
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
