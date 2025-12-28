@@ -76,3 +76,9 @@
 </h1>
 
 <br/>
+
+## License
+
+Licensed under the PolyForm Noncommercial License - Commercial use is prohibited
+
+Copyright (c) 2025 Oluwakemi Obadeyi
