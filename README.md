@@ -14,7 +14,6 @@ A Computer Science student.
 - 💬 Ask me about: AI agents, no-code/low-code development and GitLab CI/CD 
 - 📙 Languages: English and Mandarin Chinese (currently learning) 
 - 🛝 Interests: Formula One, travelling, networking, reading, volunteering and always learning something new 
-- 📫 
 
 ---
 
