@@ -1,25 +1,55 @@
-- 👋 Hi, I’m @techgirldiaries, aka Oluwakemi Toluwalase Obadeyi (Kemi).
-- 👩‍💻 I’m a UK-based Computer Science student.
-- ✨ Proficient in Python, SQL and have basic experience in JavaScript, C#, Java, AI and ML.
-- 🔭 Currently working on: QR Greeting - AI-powered personalized greetings (foundation for future innovations)
-- 🌱 Learning: MCP (Model Context Protocol), advanced LangGraph patterns, CUDA programming
-- 💬 Ask me about: RAG systems, AI agents, Platform Engineering, GitLab CI/CD, Kubernetes
-- 👓 In my spare time, I teach coursemates on coursework-related topics.
-- 🚺 I am a GirlCode Ambassador and IBM Exclusive Student Speaker. 
-- 📙 I love learning new languages; currently learning Mandarin Chinese.
-- 🛝 My hobbies and interests are Learning new things, Photography, Reading, Travelling, Nature, F1, Networking and Volunteering.
-- 📫 You can find me on [LinkedIn](linkedin.com/in/oluwakemi-obadeyi)!
+# Hi, I'm Oluwakemi 👋
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 👋你好，我是 @techgirldiaries，又名 Oluwakemi Toluwalase Obadeyi。你可以打电话给我，凯米。
-- 👩‍💻我是一名在英国学习计算机科学的学生。
-- ✨精通Python、SQL，有JavaScript、Java、C#、人工智能(AI)基础经验。
-- 👓在我的业余时间，我教授与课程相关的课程。
-- 🚺我是GirlCode 2024大使，CodeFirstGirls和编码黑人女性成员。
-- 📙我喜欢学习新的语言;目前正在学习普通话。
-- 🛝我的爱好和兴趣:运动，旅游，自然，摄影，阅读，学习新事物，网络和志愿服务。
-- 📫你可以在[LinkedIn](linkedin.com/in/oluwakemi-obadeyi)上找到我!
+A Computer Science student. 
+
+---
+
+## 🚀 About Me
+
+**By day**, I’m a UK-based Computer Science student. **By night**, I explore GenAI, multi-agent systems, RAG architectures and technology that push the boundaries of what's possible. I believe the right AI tools can turn one person into the output of an entire team. **My mission:** to make AI development accessible and build faster than traditional systems.
+
+- 🚺 GirlCode Ambassador and IBM Exclusive Student Speaker
+- 🔭 Currently building: Theia — a smart multi-agent RAG fraud intelligence system (and the foundation for future financial innovations) 
+- 🌱 Learning: Multi-Agent Systems, Retrieval-Augmented Generation and MCP (Model Context Protocol)
+- 💬 Ask me about: AI agents, no-code/low-code development and GitLab CI/CD 
+- 📙 Languages: English and Mandarin Chinese (currently learning) 
+- 🛝 Interests: Formula One, travelling, networking, reading, volunteering and always learning something new 
+- 📫 
+
+---
+
+## Latest Projects
+
+### Theia — a smart multi-agent RAG fraud intelligence system 
+**Source Code:** [Theia](https://github.com/techgirldiaries/theia)
+
+Built fraud intelligence platform using 5 specialised multi-agents with collaborative retrieval-augmented generation (MARAG). Features a 15-phase detection pipeline, multi-dataset benchmarking and comprehensive visualisation system.
+
+**Tech Stack:** Relevance AI, Preact (a lightweight alternative to React), TypeScript, Lucide-react, TailwindCSS, Vite
+
+
+### Theia Squad Demo 
+**Source Code:** [Theia Squad Demo](https://github.com/techgirldiaries/theia-squad-demo)
+
+Developed a modular AI system for real-time transaction fraud detection using similarity retrieval, machine learning (ML) classification and artificial intelligence (AI) reasoning.
+
+**Tech Stack:** Python
+
+---
+
+## 🔧 Technical Skills
+ - **Languages:** Python, React, SQL, JavaScript, C#, Java
+
+- **AI/ML & Data Science:** LangChain, LangGraph, Anthropic, Streamlit, FAISS
+
+- **DevOps & Cloud:** GitLab, AWS, Docker
+
+---
+
+## 📫 Connect With Me
+- **LinkedIn:** [Oluwakemi](https://linkedin.com/in/oluwakemi-obadeyi)
+- **GitHub:** [Tech Girl Diaries](https://github.com/techgirldiaries)
+- **Blog:** COMING SOON
 
 <!---
 techgirldiaries/techgirldiaries is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
