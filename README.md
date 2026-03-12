@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @techgirldiaries, aka Oluwakemi Toluwalase Obadeyi (Kemi).
 - 👩‍💻 I’m a UK-based Computer Science student.
-- ✨ Proficient in Python, SQL and have basic experience in JavaScript, C#, Java, AI and ML. 
+- ✨ Proficient in Python, SQL and have basic experience in JavaScript, C#, Java, AI and ML.
+- 🔭 Currently working on: QR Greeting - AI-powered personalized greetings (foundation for future innovations)
+- 🌱 Learning: MCP (Model Context Protocol), advanced LangGraph patterns, CUDA programming
+- 💬 Ask me about: RAG systems, AI agents, Platform Engineering, GitLab CI/CD, Kubernetes
 - 👓 In my spare time, I teach coursemates on coursework-related topics.
 - 🚺 I am a GirlCode Ambassador and IBM Exclusive Student Speaker. 
 - 📙 I love learning new languages; currently learning Mandarin Chinese.
