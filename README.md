@@ -17,7 +17,7 @@ A Computer Science student.
 
 ---
 
-## Latest Projects
+## 🤖 Latest Projects
 
 ### Theia — a smart multi-agent RAG fraud intelligence system 
 **Source Code:** [Theia](https://github.com/techgirldiaries/theia)
