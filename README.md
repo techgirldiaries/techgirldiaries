@@ -39,7 +39,7 @@ Developed a modular AI system for real-time transaction fraud detection using si
 ## 🔧 Technical Skills
  - **Languages:** Python, React, SQL, JavaScript, C#, Java
 
-- **AI/ML & Data Science:** LangChain, LangGraph, Anthropic, Streamlit, FAISS
+- **Data Science & AI/ML:** LangChain, LangGraph, Anthropic, Streamlit, FAISS
 
 - **DevOps & Cloud:** GitLab, AWS, Docker
 
