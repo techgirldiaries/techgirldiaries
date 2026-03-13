@@ -45,18 +45,44 @@ Developed a modular AI system for real-time transaction fraud detection using si
 
 ---
 
+## ⚡ GitHub Stats
+<div>
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=techgirldiaries.techgirldiaries" />
+     <a href="https://github.com/techgirldiaries/convoychat"><img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techgirldiaries&hide_progress=true&layout=compact&langs_count=8&card_width=320" /></a>
+    <br/>
+     <a href="https://github.com/techgirldiaries/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=techgirldiaries&rank_icon=github&hide=contribs,issues" /></a>
+</div>
+
+<br/><br/>
+
+---
+
+🎯 Current Focus (2026)
+
+---
+
+📝 Latest Blog Posts
+
+---
+
+🏆 Achievements
+
+---
+
 ## 📫 Connect With Me
 - **LinkedIn:** [Oluwakemi](https://linkedin.com/in/oluwakemi-obadeyi)
 - **GitHub:** [Tech Girl Diaries](https://github.com/techgirldiaries)
 - **Blog:** COMING SOON
 
-<!---
-techgirldiaries/techgirldiaries is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
 
 ## License
 
 Licensed under the PolyForm Noncommercial License - Commercial use is prohibited
 
 Copyright (c) 2025 Oluwakemi Obadeyi
+
+<!---
+techgirldiaries/techgirldiaries is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
