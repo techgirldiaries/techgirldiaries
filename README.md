@@ -55,7 +55,8 @@ Developed a modular AI system for real-time transaction fraud detection using si
 
 <br/><br/>
 
----
+<!--
+----
 
 🎯 Current Focus (2026)
 
@@ -67,6 +68,7 @@ Developed a modular AI system for real-time transaction fraud detection using si
 
 🏆 Achievements
 
+--->
 ---
 
 ## 📫 Connect With Me
