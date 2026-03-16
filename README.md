@@ -67,8 +67,6 @@ Developed a modular AI system for real-time transaction fraud detection using si
 - **Blog:** COMING SOON
 
 ---
-<a href="https://github.com/techgirldiaries/convoychat"><img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techgirldiaries&hide_progress=true&layout=compact&langs_count=8&card_width=320" /></a>
----
 
 ## License
 
