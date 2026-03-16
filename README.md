@@ -2,7 +2,6 @@
 
 A Computer Science student. 
 
----
 
 ## 🚀 About Me
 
@@ -15,7 +14,6 @@ A Computer Science student.
 - 📙 Languages: English and Mandarin Chinese (currently learning) 
 - 🛝 Interests: Formula One, travelling, networking, reading, volunteering and always learning something new 
 
----
 
 ## 🤖 Latest Projects
 
@@ -34,7 +32,6 @@ Developed a modular AI system for real-time transaction fraud detection using si
 
 **Tech Stack:** Python
 
----
 
 ## 🔧 Technical Skills
  - **Languages:** Python, React, SQL, JavaScript, C#, Java
@@ -43,7 +40,6 @@ Developed a modular AI system for real-time transaction fraud detection using si
 
 - **DevOps & Cloud:** GitLab, AWS, Docker
 
----
 
 <!--
 ----
@@ -65,7 +61,6 @@ Developed a modular AI system for real-time transaction fraud detection using si
 - **GitHub:** [Tech Girl Diaries](https://github.com/techgirldiaries)
 - **Blog:** COMING SOON
 
----
 
 ## License
 
