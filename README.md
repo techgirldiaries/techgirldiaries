@@ -45,16 +45,6 @@ Developed a modular AI system for real-time transaction fraud detection using si
 
 ---
 
-## ⚡ GitHub Stats
-<div>
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=techgirldiaries.techgirldiaries" />
-     <a href="https://github.com/techgirldiaries/convoychat"><img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techgirldiaries&hide_progress=true&layout=compact&langs_count=8&card_width=320" /></a>
-    <br/>
-     <a href="https://github.com/techgirldiaries/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=techgirldiaries&rank_icon=github&hide=contribs,issues" /></a>
-</div>
-
-<br/><br/>
-
 <!--
 ----
 
@@ -76,6 +66,8 @@ Developed a modular AI system for real-time transaction fraud detection using si
 - **GitHub:** [Tech Girl Diaries](https://github.com/techgirldiaries)
 - **Blog:** COMING SOON
 
+---
+<a href="https://github.com/techgirldiaries/convoychat"><img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techgirldiaries&hide_progress=true&layout=compact&langs_count=8&card_width=320" /></a>
 ---
 
 ## License
