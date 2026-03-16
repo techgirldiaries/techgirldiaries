@@ -59,7 +59,6 @@ Developed a modular AI system for real-time transaction fraud detection using si
 🏆 Achievements
 
 --->
----
 
 ## 📫 Connect With Me
 - **LinkedIn:** [Oluwakemi](https://linkedin.com/in/oluwakemi-obadeyi)
