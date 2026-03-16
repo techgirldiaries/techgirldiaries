@@ -2,6 +2,7 @@
 
 A Computer Science student. 
 
+---
 
 ## 🚀 About Me
 
