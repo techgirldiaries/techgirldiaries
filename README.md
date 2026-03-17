@@ -1,6 +1,6 @@
 # Hi, I'm Oluwakemi 👋
 
-A Computer Science student. Former Technology Developer Intern @ Barclays.
+A Computer Science student and ex-Technology Developer Intern @ Barclays.
 
 ---
 
