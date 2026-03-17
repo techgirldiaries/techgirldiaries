@@ -9,7 +9,7 @@ A Computer Science student and ex-Technology Developer Intern @ Barclays.
 **By day**, I’m a UK-based Computer Science student. **By night**, I explore GenAI, multi-agent systems and RAG architectures. I believe the right AI tools can turn one person into the output of an entire team. **My mission:** to make AI development accessible, move faster than traditional systems and push the boundaries of what's possible in technology.
 
 - 🚺 GirlCode Ambassador and IBM Exclusive Student Speaker
-- 🔭 Currently building: Theia — a smart multi-agent RAG fraud intelligence system (and the foundation for future financial innovations) 
+- 🔭 Currently building: Theia, a smart multi-agent RAG fraud intelligence system (and the foundation for future financial innovations) 
 - 🌱 Learning: Multi-Agent Systems, Retrieval-Augmented Generation and MCP (Model Context Protocol)
 - 💬 Ask me about: AI agents, no-code/low-code development and GitLab CI/CD 
 - 📙 Languages: English and Mandarin Chinese (currently learning) 
