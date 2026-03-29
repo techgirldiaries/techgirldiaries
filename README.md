@@ -18,25 +18,31 @@ A Computer Science student and ex-Technology Developer Intern @ Barclays.
 
 ## 🤖 Latest Projects
 
-### AI Match-Day Itinerary Planner for Luton Town FC
+### [AI Match-Day Itinerary Planner](https://github.com/techgirldiaries/ai-match-day-itinerary-planner) for Luton Town FC
 
-- **Source Code:** [AI Itinerary Planner](https://github.com/techgirldiaries/ai-match-day-itinerary-planner)
-- **AI Logic:** Relevance AI 
-- **Backend:** Hono.js, SQLite
-- **Frontend:** Preact (a lightweight alternative to React), TypeScript, Lucide-react, TailwindCSS, Vite
+> AI-powered match day planning for LTFC football fans ⚽ A monorepo chat application that generates personalised match-day itineraries using Relevance AI agents. Supports real-time pricing, group sharing, push notifications and live updates.
 
-### Theia - a smart multi-agent RAG fraud intelligence system 
-
-- **Source Code:** [Theia](https://github.com/techgirldiaries/theia)
-- **Description:** Built fraud intelligence platform using 5 specialised multi-agents with collaborative retrieval-augmented generation (MARAG). Features a 15-phase detection pipeline, multi-dataset benchmarking and comprehensive visualisation system.
-- **Tech Stack:** Relevance AI, Preact (a lightweight alternative to React), TypeScript, Lucide-react, TailwindCSS, Vite
+**Tech Stack**
+- **Frontend**: Preact and Preact Signals, Tailwind CSS 4.1, Vite 7
+- **Backend**: Hono.js, sql.js (pure JavaScript SQLite), TypeScript 5.9
+- **Database**: sql.js with JSON file persistence
 
 
-### Theia Squad Demo 
+### [Theia](https://github.com/techgirldiaries/theia) - a smart multi-agent RAG fraud intelligence system 
 
-- **Source Code:** [Theia Squad Demo](https://github.com/techgirldiaries/theia-squad-demo)
-- **Description:** Developed a modular AI system for real-time transaction fraud detection using similarity retrieval, machine learning (ML) classification and artificial intelligence (AI) reasoning.
-- **Tech Stack:** Python
+> Built fraud intelligence platform using 5 specialised multi-agents with collaborative retrieval-augmented generation (MARAG). Features a 15-phase detection pipeline, multi-dataset benchmarking and comprehensive visualisation system.
+
+**Tech Stack:** Relevance AI, Preact (a lightweight alternative to React), TypeScript, Lucide-react, TailwindCSS, Vite
+
+**Dataset:** PaySim, Mobile Money Fraud Dataset, Credit Card by MLG-ULB
+
+
+### [Theia Squad Demo](https://github.com/techgirldiaries/theia-squad-demo)
+
+> Developed a modular AI system for real-time transaction fraud detection using similarity retrieval, machine learning (ML) classification and artificial intelligence (AI) reasoning.
+
+**Tech Stack:** Python
+**Dataset:** PaySim, Credit Card by MLG-ULB
 
 
 ## 🔧 Technical Skills
