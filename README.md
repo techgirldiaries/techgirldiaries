@@ -32,17 +32,16 @@ A Computer Science student and ex-Technology Developer Intern @ Barclays.
 
 > Built fraud intelligence platform using 5 specialised multi-agents with collaborative retrieval-augmented generation (MARAG). Features a 15-phase detection pipeline, multi-dataset benchmarking and comprehensive visualisation system.
 
-**Tech Stack:** Relevance AI, Preact (a lightweight alternative to React), TypeScript, Lucide-react, TailwindCSS, Vite
-
-**Dataset:** PaySim, Mobile Money Fraud Dataset, Credit Card by MLG-ULB
+- **Tech Stack:** Relevance AI, Preact (a lightweight alternative to React), TypeScript, Lucide-react, TailwindCSS, Vite
+- **Dataset:** PaySim, Mobile Money Fraud Dataset, Credit Card by MLG-ULB
 
 
 ### [Theia Squad Demo](https://github.com/techgirldiaries/theia-squad-demo)
 
 > Developed a modular AI system for real-time transaction fraud detection using similarity retrieval, machine learning (ML) classification and artificial intelligence (AI) reasoning.
 
-**Tech Stack:** Python
-**Dataset:** PaySim, Credit Card by MLG-ULB
+- **Tech Stack:** Python
+- **Dataset:** PaySim, Credit Card by MLG-ULB
 
 
 ## 🔧 Technical Skills
