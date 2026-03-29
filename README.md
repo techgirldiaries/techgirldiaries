@@ -18,9 +18,9 @@ A Computer Science student and ex-Technology Developer Intern @ Barclays.
 
 ## 🤖 Latest Projects
 
-### [AI Match-Day Itinerary Planner](https://github.com/techgirldiaries/ai-match-day-itinerary-planner) for Luton Town FC
+### [AI Match-Day Itinerary Planner](https://github.com/techgirldiaries/ai-match-day-itinerary-planner) for Luton Town FC supporters ⚽
 
-> AI-powered match day planning for LTFC football fans ⚽ A monorepo chat application that generates personalised match-day itineraries using Relevance AI agents. Supports real-time pricing, group sharing, push notifications and live updates.
+> A monorepo chat application that generates personalised match-day itineraries using multi-agents built on Relevance AI. Supports real-time pricing, group sharing, push notifications and live updates.
 
 **Tech Stack**
 - **Frontend**: Preact and Preact Signals, Tailwind CSS 4.1, Vite 7
