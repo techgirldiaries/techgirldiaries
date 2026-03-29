@@ -18,6 +18,13 @@ A Computer Science student and ex-Technology Developer Intern @ Barclays.
 
 ## 🤖 Latest Projects
 
+### AI Match-Day Itinerary Planner for Luton Town FC
+**Source Code:** [AI Itinerary Planner](https://github.com/techgirldiaries/ai-match-day-itinerary-planner)
+**Tech Stack**
+- **AI Logic:** Relevance AI 
+- **Backend:** Hono.js, SQLite
+- **Frontend:** Preact (a lightweight alternative to React), TypeScript, Lucide-react, TailwindCSS, Vite
+
 ### Theia — a smart multi-agent RAG fraud intelligence system 
 **Source Code:** [Theia](https://github.com/techgirldiaries/theia)
 
