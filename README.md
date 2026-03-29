@@ -25,7 +25,7 @@ A Computer Science student and ex-Technology Developer Intern @ Barclays.
 - **Backend:** Hono.js, SQLite
 - **Frontend:** Preact (a lightweight alternative to React), TypeScript, Lucide-react, TailwindCSS, Vite
 
-### Theia — a smart multi-agent RAG fraud intelligence system 
+### Theia - a smart multi-agent RAG fraud intelligence system 
 **Source Code:** [Theia](https://github.com/techgirldiaries/theia)
 
 Built fraud intelligence platform using 5 specialised multi-agents with collaborative retrieval-augmented generation (MARAG). Features a 15-phase detection pipeline, multi-dataset benchmarking and comprehensive visualisation system.
