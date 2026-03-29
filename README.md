@@ -20,7 +20,7 @@ A Computer Science student and ex-Technology Developer Intern @ Barclays.
 
 ### AI Match-Day Itinerary Planner for Luton Town FC
 
-- **Source Code:** [AI Itinerary Planner](https://github.com/techgirldiaries/ai-match-day-itinerary-planner
+- **Source Code:** [AI Itinerary Planner](https://github.com/techgirldiaries/ai-match-day-itinerary-planner)
 - **AI Logic:** Relevance AI 
 - **Backend:** Hono.js, SQLite
 - **Frontend:** Preact (a lightweight alternative to React), TypeScript, Lucide-react, TailwindCSS, Vite
