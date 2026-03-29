@@ -19,7 +19,8 @@ A Computer Science student and ex-Technology Developer Intern @ Barclays.
 ## 🤖 Latest Projects
 
 ### AI Match-Day Itinerary Planner for Luton Town FC
-**Source Code:** [AI Itinerary Planner](https://github.com/techgirldiaries/ai-match-day-itinerary-planner)
+**Source Code:** [AI Itinerary Planner](https://github.com/techgirldiaries/ai-match-day-itinerary-planner
+<br/>
 **Tech Stack**
 - **AI Logic:** Relevance AI 
 - **Backend:** Hono.js, SQLite
