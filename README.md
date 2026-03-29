@@ -19,27 +19,24 @@ A Computer Science student and ex-Technology Developer Intern @ Barclays.
 ## 🤖 Latest Projects
 
 ### AI Match-Day Itinerary Planner for Luton Town FC
-**Source Code:** [AI Itinerary Planner](https://github.com/techgirldiaries/ai-match-day-itinerary-planner
-<br/>
-**Tech Stack**
+
+- **Source Code:** [AI Itinerary Planner](https://github.com/techgirldiaries/ai-match-day-itinerary-planner
 - **AI Logic:** Relevance AI 
 - **Backend:** Hono.js, SQLite
 - **Frontend:** Preact (a lightweight alternative to React), TypeScript, Lucide-react, TailwindCSS, Vite
 
 ### Theia - a smart multi-agent RAG fraud intelligence system 
-**Source Code:** [Theia](https://github.com/techgirldiaries/theia)
 
-Built fraud intelligence platform using 5 specialised multi-agents with collaborative retrieval-augmented generation (MARAG). Features a 15-phase detection pipeline, multi-dataset benchmarking and comprehensive visualisation system.
-
-**Tech Stack:** Relevance AI, Preact (a lightweight alternative to React), TypeScript, Lucide-react, TailwindCSS, Vite
+- **Source Code:** [Theia](https://github.com/techgirldiaries/theia)
+- **Description:** Built fraud intelligence platform using 5 specialised multi-agents with collaborative retrieval-augmented generation (MARAG). Features a 15-phase detection pipeline, multi-dataset benchmarking and comprehensive visualisation system.
+- **Tech Stack:** Relevance AI, Preact (a lightweight alternative to React), TypeScript, Lucide-react, TailwindCSS, Vite
 
 
 ### Theia Squad Demo 
-**Source Code:** [Theia Squad Demo](https://github.com/techgirldiaries/theia-squad-demo)
 
-Developed a modular AI system for real-time transaction fraud detection using similarity retrieval, machine learning (ML) classification and artificial intelligence (AI) reasoning.
-
-**Tech Stack:** Python
+- **Source Code:** [Theia Squad Demo](https://github.com/techgirldiaries/theia-squad-demo)
+- **Description:** Developed a modular AI system for real-time transaction fraud detection using similarity retrieval, machine learning (ML) classification and artificial intelligence (AI) reasoning.
+- **Tech Stack:** Python
 
 
 ## 🔧 Technical Skills
