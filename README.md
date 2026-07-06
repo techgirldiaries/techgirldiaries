@@ -1,6 +1,6 @@
 # Hi, I'm Oluwakemi 👋
 
-A Technology Developer Analyst, Computer Science graduate and ex-Technology Developer Intern @ Barclays.
+A Computer Science graduate and ex-Technology Developer Intern @ Barclays.
 
 ---
 
