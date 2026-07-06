@@ -1,12 +1,12 @@
 # Hi, I'm Oluwakemi 👋
 
-A Computer Science student and ex-Technology Developer Intern @ Barclays.
+A Technology Developer Analyst, Computer Science graduate and ex-Technology Developer Intern @ Barclays.
 
 ---
 
 ## 🚀 About Me
 
-**By day**, I’m a UK-based Computer Science student. **By night**, I explore GenAI, multi-agent systems and RAG architectures. I believe the right AI tools can turn one person into the output of an entire team. **My mission:** to make AI development accessible, move faster than traditional systems and push the boundaries of what's possible in technology.
+**By day**, I’m a Technology Developer Analyst. **By night**, I explore GenAI, multi-agent systems and RAG architectures. I believe the right AI tools can turn one person into the output of an entire team. **My mission:** to make AI development accessible, move faster than traditional systems and push the boundaries of what's possible in technology.
 
 - 🚺 GirlCode Ambassador and IBM Exclusive Student Speaker
 - 🔭 Currently building: Theia, a smart multi-agent RAG fraud intelligence system (and the foundation for future financial innovations) 
