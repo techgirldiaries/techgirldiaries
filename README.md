@@ -11,12 +11,19 @@ A Computer Science student and ex-Technology Developer Intern @ Barclays.
 - 🚺 GirlCode Ambassador and IBM Exclusive Student Speaker
 - 🔭 Currently building: Theia, a smart multi-agent RAG fraud intelligence system (and the foundation for future financial innovations) 
 - 🌱 Learning: Multi-Agent Systems, Retrieval-Augmented Generation and MCP (Model Context Protocol)
-- 💬 Ask me about: AI agents, no-code/low-code development and GitLab CI/CD 
+- 💬 Ask me about: Agentic AI, no-code/low-code development and GitLab CI/CD 
 - 📙 Languages: English and Mandarin Chinese (currently learning) 
 - 🛝 Interests: Formula One, travelling, networking, reading, volunteering and always learning something new 
 
 
 ## 🤖 Latest Projects
+
+### [Theia](https://github.com/techgirldiaries/theia) - a smart multi-agent RAG fraud intelligence system 
+
+> Built fraud intelligence platform using 5 specialised multi-agents with retrieval-augmented generation (MARAG) collaborating in 16-phase detection pipeline sequentially or in parallel.
+
+- **Tech Stack:** Relevance AI, Preact, TypeScript, TailwindCSS, Lucide-react, Radix UI, Vite
+- **Dataset:** PaySim, Mobile Money Fraud Dataset, Credit Card Fraud by MLG-ULB
 
 ### [AI Match-Day Itinerary Planner](https://github.com/techgirldiaries/ai-match-day-itinerary-planner) for Luton Town FC supporters ⚽
 
@@ -26,15 +33,6 @@ A Computer Science student and ex-Technology Developer Intern @ Barclays.
 - **Frontend**: Preact and Preact Signals, Tailwind CSS 4.1, Vite 7
 - **Backend**: Hono.js, sql.js (pure JavaScript SQLite), TypeScript 5.9
 - **Database**: sql.js with JSON file persistence
-
-
-### [Theia](https://github.com/techgirldiaries/theia) - a smart multi-agent RAG fraud intelligence system 
-
-> Built fraud intelligence platform using 5 specialised multi-agents with retrieval-augmented generation (MARAG) collaborating in 16-phase detection pipeline sequentially or in parallel.
-
-- **Tech Stack:** Relevance AI, Preact, TypeScript, TailwindCSS, Lucide-react, Radix UI, Vite
-- **Dataset:** PaySim, Mobile Money Fraud Dataset, Credit Card Fraud by MLG-ULB
-
 
 ### [Theia Squad Demo](https://github.com/techgirldiaries/theia-squad-demo)
 
