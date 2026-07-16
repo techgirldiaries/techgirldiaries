@@ -18,28 +18,30 @@ A Computer Science graduate and ex-Technology Developer Intern @ Barclays.
 
 ## 🤖 Latest Projects
 
-### [Theia](https://github.com/techgirldiaries/theia) - a smart multi-agent RAG fraud intelligence system 
+### [Theia Fraud Intelligence](https://github.com/techgirldiaries/theia) - a smart multi-agent RAG fraud intelligence system 
 
 > Built fraud intelligence platform using 5 specialised multi-agents with retrieval-augmented generation (MARAG) collaborating in 16-phase detection pipeline sequentially or in parallel.
 
 - **Tech Stack:** Relevance AI, Preact, TypeScript, TailwindCSS, Lucide-react, Radix UI, Vite
 - **Dataset:** PaySim, Mobile Money Fraud Dataset, Credit Card Fraud by MLG-ULB
 
-### [AI Match-Day Itinerary Planner](https://github.com/techgirldiaries/ai-match-day-itinerary-planner) for Luton Town FC supporters ⚽
-
-> A monorepo chat application that generates personalised match-day itineraries using 12 multi-agents running in parallel. Supports real-time pricing, group sharing, push notifications and live updates.
-
-**Tech Stack**
-- **Frontend**: Preact and Preact Signals, Tailwind CSS 4.1, Vite 7
-- **Backend**: Hono.js, sql.js (pure JavaScript SQLite), TypeScript 5.9
-- **Database**: sql.js with JSON file persistence
-
 ### [Theia Squad Demo](https://github.com/techgirldiaries/theia-squad-demo)
 
 > Developed a modular AI system for real-time transaction fraud detection using similarity retrieval, machine learning (ML) classification and artificial intelligence (AI) reasoning.
 
 - **Tech Stack:** Python
-- **Dataset:** PaySim, Credit Card by MLG-ULB
+- **Dataset:** PaySim and Credit Card by MLG-ULB
+
+### [AI Match-Day Itinerary Planner](https://github.com/techgirldiaries/ai-match-day-itinerary-planner) for Luton Town FC supporters ⚽
+
+> AI-powered multi-agent match-day planning platform built for Luton Town Football Club supporters.
+
+**Tech Stack**
+- **Frontend**: Preact and Preact Signals, Tailwind CSS 4.1, Vite 7
+- **Backend**: Hono.js, sql.js (pure JavaScript SQLite), TypeScript 5.9
+- **Database**: sql.js with JSON file persistence
+- **AI Platform**: Relevance AI, Relevance AI SDK, Model Context Protocol (MCP)
+- **APIs**: Google Maps Places API, OpenWeather API, The Odds API, Google Search, Google Calendar, Outlook Calendar
 
 
 ## 🔧 Technical Skills
