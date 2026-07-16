@@ -12,7 +12,7 @@ A Computer Science graduate and ex-Technology Developer Intern @ Barclays.
 - 🔭 Currently building: Theia, a smart multi-agent RAG fraud intelligence system (and the foundation for future financial innovations) 
 - 🌱 Learning: Multi-Agent Systems, Retrieval-Augmented Generation and MCP (Model Context Protocol)
 - 💬 Ask me about: Agentic AI, no-code/low-code development and GitLab CI/CD 
-- 📙 Languages: English (Fluent), Mandarin Chinese and French (currently learning) 
+- 📙 Languages: English (Fluent), Mandarin Chinese (Conversational), French (Basic, currently learning) 
 - 🛝 Interests: Formula One, travelling, networking, reading, volunteering and always learning something new 
 
 
