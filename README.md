@@ -32,7 +32,7 @@ A Computer Science graduate and ex-Technology Developer Intern @ Barclays.
 - **Tech Stack:** Python
 - **Dataset:** PaySim and Credit Card by MLG-ULB
 
-### [AI Match-Day Itinerary Planner](https://github.com/techgirldiaries/ai-match-day-itinerary-planner) for Luton Town FC supporters ⚽
+### [LTFC AI Match-Day Itinerary Planner](https://github.com/techgirldiaries/ai-match-day-itinerary-planner) for Luton Town FC supporters ⚽
 
 > AI-powered multi-agent match-day planning platform built for Luton Town Football Club supporters.
 
